@@ -1163,9 +1163,9 @@ body.nav-active {
 }
 
 
-.menu-toggle{
-display:none;
-font-size:28px;
-cursor:pointer;
-color:#111827;
+.menu-toggle {
+  display: none;
+  font-size: 28px;
+  cursor: pointer;
+  color: #111827;
 }

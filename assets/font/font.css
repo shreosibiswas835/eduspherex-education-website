@@ -14,7 +14,7 @@
   font-style: normal;
   font-display: swap;
   src: local("Gilroy-Regular"),
-      url("./gilroy/Gilroy-Regular.woff2") format("woff2");
+    url("./gilroy/Gilroy-Regular.woff2") format("woff2");
 }
 
 @font-face {
@@ -23,7 +23,7 @@
   font-style: normal;
   font-display: swap;
   src: local("Gilroy-Medium"),
-      url("./gilroy/Gilroy-Medium.woff2") format("woff2");
+    url("./gilroy/Gilroy-Medium.woff2") format("woff2");
 }
 
 @font-face {
@@ -32,7 +32,7 @@
   font-style: normal;
   font-display: swap;
   src: local("Gilroy-Bold"),
-      url("./gilroy/Gilroy-Bold.woff2") format("woff2");
+    url("./gilroy/Gilroy-Bold.woff2") format("woff2");
 }
 
 @font-face {
@@ -41,5 +41,5 @@
   font-style: normal;
   font-display: swap;
   src: local("Gilroy-ExtraBold"),
-      url("./gilroy/Gilroy-ExtraBold.woff2") format("woff2");
+    url("./gilroy/Gilroy-ExtraBold.woff2") format("woff2");
 }

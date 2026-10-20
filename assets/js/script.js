@@ -67,11 +67,11 @@ window.addEventListener("scroll", headerActive);
 
 
 
-const menuToggle=document.querySelector(".menu-toggle");
-const nav=document.querySelector("nav");
+const menuToggle = document.querySelector(".menu-toggle");
+const nav = document.querySelector("nav");
 
-menuToggle.addEventListener("click",()=>{
+menuToggle.addEventListener("click", () => {
 
-nav.classList.toggle("active");
+  nav.classList.toggle("active");
 
 });
